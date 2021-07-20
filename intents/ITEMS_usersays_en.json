@@ -1,0 +1,67 @@
+[
+  {
+    "id": "2fced9ca-696c-4d3d-a480-6df002a01ea4",
+    "data": [
+      {
+        "text": "chocolate shake",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a05f740f-df7a-485f-aef1-281441c79c81",
+    "data": [
+      {
+        "text": "biryani",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9495f5d2-e4a6-4108-b5ad-16eff4432e36",
+    "data": [
+      {
+        "text": "ice-creame",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "50f898c2-05f2-4746-8143-66a991214f31",
+    "data": [
+      {
+        "text": "pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e97016c-997a-47f6-a9c7-5cbfc79e8d68",
+    "data": [
+      {
+        "text": "lemonade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
